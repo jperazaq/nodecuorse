@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Es la primera practica del curso de node en Udemy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon  index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jperazaq/nodecuorse.git"
+  },
+  "author": "Julio Peraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jperazaq/nodecuorse/issues"
+  },
+  "homepage": "https://github.com/jperazaq/nodecuorse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
